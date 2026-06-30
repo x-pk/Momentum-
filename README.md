@@ -35,7 +35,6 @@ App Preview
 
 <img width="400" height="800" alt="Detail 5" src="https://github.com/user-attachments/assets/971a02e0-7146-4e0d-ad8c-7f922649d5a1" />
 
-<img width="400" height="800" alt="Detail 6" src="https://github.com/user-attachments/assets/deaca13d-42ca-4650-92be-e510da49a81b" /><div align="center">
 
 
 
