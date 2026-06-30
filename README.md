@@ -1,4 +1,3 @@
-<img width="720" height="1600" alt="WhatsApp Image 2026-06-30 at 11 32 57 (1)" src="https://github.com/user-attachments/assets/deaca13d-42ca-4650-92be-e510da49a81b" /><div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
@@ -35,6 +34,9 @@ App Preview
 <img width="400" height="800" alt="Detail 4" src="https://github.com/user-attachments/assets/8428e18f-c8a5-411b-b3c3-2a21ce102c1b" />
 
 <img width="400" height="800" alt="Detail 5" src="https://github.com/user-attachments/assets/971a02e0-7146-4e0d-ad8c-7f922649d5a1" />
+
+<img width="400" height="800" alt="Detail 6" src="https://github.com/user-attachments/assets/deaca13d-42ca-4650-92be-e510da49a81b" /><div align="center">
+
 
 
 
