@@ -1,4 +1,4 @@
-<div align="center">
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-30 at 11 32 57 (1)" src="https://github.com/user-attachments/assets/deaca13d-42ca-4650-92be-e510da49a81b" /><div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
@@ -22,12 +22,21 @@ View your app in AI Studio: https://ai.studio/apps/f46f8ed7-f04f-4ebd-8d72-9fcdb
 
 App Preview 
 
-<img width="720" height="1600" alt="Profile" src="https://github.com/user-attachments/assets/b4a87d5b-7a8e-4593-9570-a51a6bc4cf2e" />
+<img width="400" height="800" alt="Profile" src="https://github.com/user-attachments/assets/b4a87d5b-7a8e-4593-9570-a51a6bc4cf2e" />
 
 <img width="400" height="800" alt="Task" src="https://github.com/user-attachments/assets/d2192afb-50b9-4487-a246-a06c92e734cd" />
 
  <img width="400" height="800" alt="Detail 1" src="https://github.com/user-attachments/assets/1e44c288-4041-4529-95af-f834bd7f0b8b" />
- 
-<img width="400" height="800" alt="Detail 2" src="https://github.com/user-attachments/assets/2d22ca4d-79ac-4582-b738-98c43e3bb766" />
 
-<img width="400" height="800" alt="Detail 3" src="https://github.com/user-attachments/assets/0161aa88-8be1-4481-9d26-c667703aacb7" />
+ <img width="400" height="800" alt="Detail 2" src="https://github.com/user-attachments/assets/0161aa88-8be1-4481-9d26-c667703aacb7" />
+
+<img width="400" height="800" alt="Detail 3" src="https://github.com/user-attachments/assets/2d22ca4d-79ac-4582-b738-98c43e3bb766" />
+
+<img width="400" height="800" alt="Detail 4" src="https://github.com/user-attachments/assets/8428e18f-c8a5-411b-b3c3-2a21ce102c1b" />
+
+<img width="400" height="800" alt="Detail 5" src="https://github.com/user-attachments/assets/971a02e0-7146-4e0d-ad8c-7f922649d5a1" />
+
+
+
+
+
